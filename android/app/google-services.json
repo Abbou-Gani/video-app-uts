@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97329546118",
+    "project_id": "authen-app-uts",
+    "storage_bucket": "authen-app-uts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97329546118:android:c770d965bbf30e5c012207",
+        "android_client_info": {
+          "package_name": "com.example.authen_app_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZUih-W2cQLjKh-OVkOmLSH4zhHBofSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
